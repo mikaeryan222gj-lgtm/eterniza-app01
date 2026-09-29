@@ -1,0 +1,6 @@
+{
+  "name": "Eterniza",
+  "description": "Uma experiência guiada premium para transformar suas fotos em um reencontro em vídeo emocionante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
